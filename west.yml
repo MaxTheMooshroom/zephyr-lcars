@@ -1,0 +1,7 @@
+manifest:
+  projects:
+    - name: zephyr
+      path: zephyr
+      import: true
+  self:
+    path: .
